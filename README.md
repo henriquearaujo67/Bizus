@@ -1,7 +1,7 @@
 # Bizus
-Python, SQL and other tips for beginners.
+Python, SQL and other tips for beginners (I am a beginner)
 
-Dicas Python, SQL e outras para iniciantes.
+Dicas Python, SQL e outras para iniciantes (Eu sou iniciante)
 
 **Dicas:**
 
