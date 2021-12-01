@@ -1,6 +1,5 @@
 # Bizus
-Python, SQL and other tips for beginners (I am a beginner)
-Dicas Python, SQL e outras para iniciantes (Eu sou iniciante)
+Python, SQL and other tips for beginners (I am a beginner) / Dicas Python, SQL e outras para iniciantes (Eu sou iniciante)
 
 *Python Basics:*
 - [Backup simples](simple-folder-backup)
