@@ -6,6 +6,8 @@ Dicas Python, SQL e outras para iniciantes.
 **Dicas:**
 
 *Python Basics:*
+- [Backup simples](simple-folder-backup)
+
 
 *Database:*
 - [Como acessar um banco de dados](database-basics)
